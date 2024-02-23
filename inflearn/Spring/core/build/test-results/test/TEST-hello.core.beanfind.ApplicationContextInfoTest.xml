@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.beanfind.ApplicationContextInfoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-22T07:19:05" hostname="DESKTOP-LL832F4" time="0.015">
+  <properties/>
+  <testcase name="findAllBean()" classname="hello.core.beanfind.ApplicationContextInfoTest" time="0.015"/>
+  <system-out><![CDATA[name = org.springframework.context.annotation.internalConfigurationAnnotationProcessorbean = org.springframework.context.annotation.ConfigurationClassPostProcessor@4de025bf
+name = org.springframework.context.annotation.internalAutowiredAnnotationProcessorbean = org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor@56db847e
+name = org.springframework.context.annotation.internalCommonAnnotationProcessorbean = org.springframework.context.annotation.CommonAnnotationBeanPostProcessor@740abb5
+name = org.springframework.context.event.internalEventListenerProcessorbean = org.springframework.context.event.EventListenerMethodProcessor@560cbf1a
+name = org.springframework.context.event.internalEventListenerFactorybean = org.springframework.context.event.DefaultEventListenerFactory@5fe8b721
+name = appConfigbean = hello.core.AppConfig$$SpringCGLIB$$0@551a20d6
+name = memberServicebean = hello.core.member.MemberServiceImpl@578524c3
+name = orderServicebean = hello.core.order.OrderServiceImpl@64c2b546
+name = memberRepositorybean = hello.core.member.MemoryMemberRepository@7e094740
+name = discountPolicybean = hello.core.discount.RateDiscountPolicy@7a11c4c7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

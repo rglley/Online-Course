@@ -1,0 +1,10 @@
+®name = org.springframework.context.annotation.internalConfigurationAnnotationProcessorbean = org.springframework.context.annotation.ConfigurationClassPostProcessor@4de025bf
+µname = org.springframework.context.annotation.internalAutowiredAnnotationProcessorbean = org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor@56db847e
+¨name = org.springframework.context.annotation.internalCommonAnnotationProcessorbean = org.springframework.context.annotation.CommonAnnotationBeanPostProcessor@740abb5
+—name = org.springframework.context.event.internalEventListenerProcessorbean = org.springframework.context.event.EventListenerMethodProcessor@560cbf1a
+”name = org.springframework.context.event.internalEventListenerFactorybean = org.springframework.context.event.DefaultEventListenerFactory@5fe8b721
+Fname = appConfigbean = hello.core.AppConfig$$SpringCGLIB$$0@551a20d6
+Iname = memberServicebean = hello.core.member.MemberServiceImpl@578524c3
+Fname = orderServicebean = hello.core.order.OrderServiceImpl@64c2b546
+Qname = memberRepositorybean = hello.core.member.MemoryMemberRepository@7e094740
+Mname = discountPolicybean = hello.core.discount.RateDiscountPolicy@7a11c4c7
