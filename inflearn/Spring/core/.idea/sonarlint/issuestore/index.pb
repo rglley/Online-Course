@@ -17,3 +17,5 @@ V
 &src/main/java/hello/core/OrderApp.java,2\9\29478c4b38e368a2d0a31fd120fbcc6e2e114357
 _
 /src/test/java/hello/core/xml/XmlAppContext.java,8\0\8035d69a9a41bbc47211b4e7014936faa7751180
+o
+?src/test/java/hello/core/beandefinition/BeanDefinitionTest.java,4\0\4046a6bfdea8f588632296458248ccfda58d559c
