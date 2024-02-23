@@ -22,3 +22,17 @@ o
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+e
+5src/test/java/hello/core/singleton/SingletonTest.java,e\6\e65fc26fad0fae8446b6b281bc015a9ee11df604
+h
+8src/test/java/hello/core/singleton/SingletonService.java,d\1\d12264be692e8b73e82c17d0a6bd408c01462c77
+g
+7src/test/java/hello/core/singleton/StatefulService.java,e\7\e7062d8014835497de0725ee7dc00b6d0554ffd7
+k
+;src/test/java/hello/core/singleton/StatefulServiceTest.java,0\0\0024a32a248a9ce879d9c74f8ed62839e7243aa6
+f
+6src/main/java/hello/core/member/MemberServiceImpl.java,3\c\3c89627e38437fb3bfd25cc0b718885fd9e0aacf
+d
+4src/main/java/hello/core/order/OrderServiceImpl.java,8\5\8575f8b892c4fcb01d60520c941d80383c672ed3
+q
+Asrc/test/java/hello/core/singleton/ConfigurationSigletonTest.java,2\c\2c6a1f46fd78f1470ab8acd5ceb9c48922973b34

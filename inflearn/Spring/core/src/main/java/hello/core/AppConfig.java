@@ -15,6 +15,11 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class AppConfig {
 
+    //@Bean memberService -> new MemoryMemberRepository()
+    //@Bean orderService -> new MemoryMemberRepository()
+    //new 객체 생성 2번? 싱글톤은???
+    //Spring에서 AppConfig@CGLIB 객체로 바꿔서 등록, 싱글톤 보장
+
     @Bean
     public MemberService memberService() {
         return new MemberServiceImpl(memberRepository());
