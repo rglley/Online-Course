@@ -19,3 +19,6 @@ _
 /src/test/java/hello/core/xml/XmlAppContext.java,8\0\8035d69a9a41bbc47211b4e7014936faa7751180
 o
 ?src/test/java/hello/core/beandefinition/BeanDefinitionTest.java,4\0\4046a6bfdea8f588632296458248ccfda58d559c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
