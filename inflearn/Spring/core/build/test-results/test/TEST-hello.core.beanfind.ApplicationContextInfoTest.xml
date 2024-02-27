@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.beanfind.ApplicationContextInfoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-27T04:06:17" hostname="DESKTOP-LL832F4" time="0.009">
+  <properties/>
+  <testcase name="findApplicationBean()" classname="hello.core.beanfind.ApplicationContextInfoTest" time="0.001"/>
+  <testcase name="findAllBean()" classname="hello.core.beanfind.ApplicationContextInfoTest" time="0.001"/>
+  <system-out><![CDATA[name = appConfigbean = hello.core.AppConfig$$SpringCGLIB$$0@21edd891
+name = memberServicebean = hello.core.member.MemberServiceImpl@de579ff
+name = orderServicebean = hello.core.order.OrderServiceImpl@7971c2a9
+name = memberRepositorybean = hello.core.member.MemoryMemberRepository@2fd39436
+name = discountPolicybean = hello.core.discount.RateDiscountPolicy@60b5e80d
+name = org.springframework.context.annotation.internalConfigurationAnnotationProcessorbean = org.springframework.context.annotation.ConfigurationClassPostProcessor@797fcf9
+name = org.springframework.context.annotation.internalAutowiredAnnotationProcessorbean = org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor@16bd7ae1
+name = org.springframework.context.annotation.internalCommonAnnotationProcessorbean = org.springframework.context.annotation.CommonAnnotationBeanPostProcessor@15d114ce
+name = org.springframework.context.event.internalEventListenerProcessorbean = org.springframework.context.event.EventListenerMethodProcessor@3312f4f4
+name = org.springframework.context.event.internalEventListenerFactorybean = org.springframework.context.event.DefaultEventListenerFactory@b5aa65b
+name = appConfigbean = hello.core.AppConfig$$SpringCGLIB$$0@76cdafa3
+name = memberServicebean = hello.core.member.MemberServiceImpl@6b27b2d0
+name = orderServicebean = hello.core.order.OrderServiceImpl@4fb64e14
+name = memberRepositorybean = hello.core.member.MemoryMemberRepository@118041c7
+name = discountPolicybean = hello.core.discount.RateDiscountPolicy@a2b54e3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

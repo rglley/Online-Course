@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.core.singleton.ConfigurationSigletonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-23T02:20:11" hostname="DESKTOP-LL832F4" time="0.296">
+<testsuite name="hello.core.singleton.ConfigurationSigletonTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-27T04:06:17" hostname="DESKTOP-LL832F4" time="0.014">
   <properties/>
-  <testcase name="configurationTest()" classname="hello.core.singleton.ConfigurationSigletonTest" time="0.296"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="configurationDeep()" classname="hello.core.singleton.ConfigurationSigletonTest" time="0.006"/>
+  <testcase name="configurationTest()" classname="hello.core.singleton.ConfigurationSigletonTest" time="0.008"/>
+  <system-out><![CDATA[bean = class hello.core.AppConfig$$SpringCGLIB$$0
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

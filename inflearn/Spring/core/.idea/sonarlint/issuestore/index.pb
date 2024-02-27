@@ -54,3 +54,11 @@ _
 /src/test/java/hello/core/scan/filter/BeanB.java,d\5\d5055a67ca0af7a577b0647e1d0e209d01d49a87
 v
 Fsrc/test/java/hello/core/scan/filter/ComponentFilterAppConfigTest.java,9\6\969d9c93b53b6740ddfa69ec5171fd6a0128bcf7
+e
+5src/test/java/hello/core/autowired/AutowiredTest.java,e\1\e1475ce21780fd7ef23359f741b25489dc6e5948
+b
+2src/test/java/hello/core/CoreApplicationTests.java,6\c\6cb232908f0a15f8da3c2c045f6cc0c3d26c583b
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+Y
+)src/main/java/hello/core/HelloLombok.java,e\f\ef24ed16af56087b31ce08e3add80c71ff208b4d
