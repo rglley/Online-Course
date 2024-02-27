@@ -62,3 +62,7 @@ b
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 Y
 )src/main/java/hello/core/HelloLombok.java,e\f\ef24ed16af56087b31ce08e3add80c71ff208b4d
+k
+;src/main/java/hello/core/annotation/MainDiscountPolicy.java,d\7\d709e8a87973937f164f67c14156ec29e6572542
+k
+;src/test/java/hello/core/autowired/allbean/AllBeanTest.java,9\5\95ca8898d8148417b76aa23bbc45e1a717c506e4
