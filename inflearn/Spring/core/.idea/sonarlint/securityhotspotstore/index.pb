@@ -66,3 +66,13 @@ k
 ;src/main/java/hello/core/annotation/MainDiscountPolicy.java,d\7\d709e8a87973937f164f67c14156ec29e6572542
 k
 ;src/test/java/hello/core/autowired/allbean/AllBeanTest.java,9\5\95ca8898d8148417b76aa23bbc45e1a717c506e4
+e
+5src/test/java/hello/core/lifecycle/NetworkClient.java,7\6\76061516cd989fd71bac9f852f1035abb7d93224
+i
+9src/test/java/hello/core/lifecycle/BeanLifeCycleTest.java,2\d\2dd60c269491dadc68da409b426c44060736a020
+a
+1src/test/java/hello/core/scope/SingletonTest.java,1\6\160324cae64ce940dae5d0b443d23e5f16495205
+a
+1src/test/java/hello/core/scope/PrototypeTest.java,2\e\2e98d0cde579df05ae13f057816bc3f6271730e6
+o
+?src/test/java/hello/core/scope/SingletonWithProtorypeTest1.java,7\9\796fdb462e186d048af993c475e2a0ec1e5b1b87
