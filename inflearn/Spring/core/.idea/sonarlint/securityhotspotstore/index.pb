@@ -76,3 +76,9 @@ a
 1src/test/java/hello/core/scope/PrototypeTest.java,2\e\2e98d0cde579df05ae13f057816bc3f6271730e6
 o
 ?src/test/java/hello/core/scope/SingletonWithProtorypeTest1.java,7\9\796fdb462e186d048af993c475e2a0ec1e5b1b87
+]
+-src/main/java/hello/core/common/MyLogger.java,f\a\fa2b6c8e9c647a38b69218849f7d7dcc5a68ec23
+c
+3src/main/java/hello/core/web/LogDemoController.java,0\9\09779f063b6cb032c039947e24537a0090f228b5
+`
+0src/main/java/hello/core/web/LogDemoService.java,3\7\37660900272441d5837ae06e89452665923adb99
